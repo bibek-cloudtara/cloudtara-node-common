@@ -2,7 +2,7 @@
   "name": "@bibek-cloudtara/cloudtara-node-common",
   "version": "1.0.0",
   "description": "Common code for cloudtara node projects",
-  "main": "dist/index.js",
+  "main": "./dist/index.js",
   "files": ["dist/**/*"],
   "repository": "https://github.com/bibek-cloudtara/cloudtara-node-common.git",
   "scripts": {
