@@ -1,8 +1,8 @@
 {
   "name": "@bibek-cloudtara/cloudtara-node-common",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Common code for cloudtara node projects",
+  "main": "dist/index.js",
   "files": ["dist/**/*"],
   "repository": "https://github.com/bibek-cloudtara/cloudtara-node-common.git",
   "scripts": {
@@ -13,7 +13,6 @@
   },
   "keywords": [],
   "author": "Bibek Saha",
-  "license": "ISC",
   "devDependencies": {
     "prettier": "^2.7.1",
     "tslint": "^6.1.3",
