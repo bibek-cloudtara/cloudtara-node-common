@@ -1,9 +1,10 @@
 {
-  "name": "cloudtara-node-common",
+  "name": "@bibek-cloudtara/cloudtara-node-common",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "files": ["dist/**/*"],
+  "repository": "https://github.com/bibek-cloudtara/cloudtara-node-common.git",
   "scripts": {
     "build": "tsc",
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
